@@ -12,7 +12,7 @@ It helps farmers, policymakers, and researchers analyze soil and weather conditi
 
 ✅ Regional Analysis – Compare crop recommendations across regions.
 
-✅ Data Transformation – Power Query & DAX for calculations.
+✅ Data Transformation – Power Query for calculations.
 
 ✅ User-Friendly Interface – Easy to explore and customize.
 

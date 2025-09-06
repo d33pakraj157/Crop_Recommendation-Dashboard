@@ -5,6 +5,7 @@ The Crop Recommendation Dashboard is built using Power BI to provide data-driven
 It helps farmers, policymakers, and researchers analyze soil and weather conditions to recommend suitable crops.
 
 🎯 Key Features
+
 ✅ Interactive Visuals – Dynamic charts, slicers, and filters.
 ✅ Crop Suitability Insights – Suggests crops based on soil, rainfall, and climate.
 ✅ Regional Analysis – Compare crop recommendations across regions.
